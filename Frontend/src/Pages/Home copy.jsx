@@ -1,4 +1,5 @@
-import { useState } from 'react';
+import React, { useState } from 'react';
+import emailjs from '@emailjs/browser';
 import CommonFormSection from '../Components/CommonFormSection';
 import PropertyTypeSection from '../Components/PropertyTypeSection';
 import ArrowBackOutlinedIcon from '@mui/icons-material/ArrowBackOutlined';
@@ -111,6 +112,7 @@ export default function AllExtensions() {
         );
     };
 
+    // Simple required field validation
     const validateForm = () => {
         const {
             propertyType,
@@ -159,25 +161,19 @@ export default function AllExtensions() {
         setLoading(true);
 
         try {
-            const response = await fetch('http://localhost:9000/api/leads', {
-                method: 'POST',
-                headers: {
-                    'Content-Type': 'application/json',
-                },
-                body: JSON.stringify({
-                    ...formData,
-                    email: formData.email.trim().toLowerCase(),
-                    acceptTerms: Boolean(formData.acceptTerms),
-                    acceptUpdate: Boolean(true),
-                    workDone: Boolean(false)
-                }),
-            });
+            const templateParams = {
+                ...formData,
+                extensions: formData.selectedExtensions
+                    .map(ext => `${ext.floorType} - ${ext.extensionName}`)
+                    .join('\n')
+            };
 
-            if (!response.ok) {
-                throw new Error('Network response was not ok');
-            }
-
-            const result = await response.json();
+            await emailjs.send(
+                'service_9kre5yl',
+                'template_02gpr5d',
+                templateParams,
+                '3bAooeODKHEgSgupo'
+            );
 
             alert("Thank you for your submission! We'll be in touch shortly.");
 
@@ -200,7 +196,7 @@ export default function AllExtensions() {
 
             setCurrentFloorType('');
         } catch (error) {
-            console.error('Submission failed:', error);
+            console.error('Email sending failed:', error);
             alert("There was an error submitting your form. Please try again.");
         } finally {
             setLoading(false);

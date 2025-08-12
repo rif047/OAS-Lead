@@ -11,7 +11,7 @@ const LeadSchema = Mongoose.Schema({
         type: String
     },
     selectedExtensions: {
-        type: String
+        type: Array
     },
     buildingRegulations: {
         type: String
