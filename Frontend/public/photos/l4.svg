@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1080 1080" style="enable-background:new 0 0 1080 1080;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#BAB8C6;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#9F9DA8;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#062744;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;filter:url(#Adobe_OpacityMaskFilter);}
+	.st5{opacity:0.65;mask:url(#mask0_2053_3902_1_);}
+	.st6{fill-rule:evenodd;clip-rule:evenodd;fill:#EBE313;}
+	.st7{fill:#9F9DA8;}
+</style>
+<g id="Hip_To_Gable_With_No_Dormer">
+	<path class="st1" d="M26.15,680.61l533.52,308.07V630.3L26.15,322.25V680.61z"/>
+	<path class="st2" d="M559.67,630.31v358.36l266-153.49V476.34l-132.58-76.45L559.67,630.31z"/>
+	<path class="st3" d="M159.45,91.32L26.16,322.25l533.52,308.07l133.29-230.45L159.45,91.32z"/>
+	<defs>
+		<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="559.7" y="732.6" width="494.15" height="256.07">
+			<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+		</filter>
+	</defs>
+	<mask maskUnits="userSpaceOnUse" x="559.7" y="732.6" width="494.15" height="256.07" id="mask0_2053_3902_1_">
+		<path class="st4" d="M559.7,732.6h494.13v256.07H559.7V732.6z"/>
+	</mask>
+	<g class="st5">
+		<path class="st1" d="M826.08,732.6l227.77,131.12L559.7,988.68l266.38-153.87V732.6z"/>
+	</g>
+	<g>
+		<polygon class="st6" points="693.46,402.03 823.67,477.21 562.44,628.47 		"/>
+		<path class="st7" d="M693.82,403.39l127.85,73.82L565.18,625.72L693.82,403.39 M693.09,400.66L559.7,631.21l265.97-154
+			L693.09,400.66L693.09,400.66z"/>
+	</g>
+	<g>
+		<polygon class="st6" points="535.39,309.23 691.62,401.01 560.44,627.92 		"/>
+		<path class="st7" d="M536.54,311.07l153.72,90.31L561.18,624.63L536.54,311.07 M534.25,307.4l25.45,323.8l133.29-230.55
+			L534.25,307.4L534.25,307.4z"/>
+	</g>
+</g>
+</svg>

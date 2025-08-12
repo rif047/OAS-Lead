@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1080 1080" style="enable-background:new 0 0 1080 1080;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#BAB8C6;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#9F9DA8;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#062744;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#EBE313;}
+	.st5{fill:#9F9DA8;}
+	.st6{opacity:0.65;fill-rule:evenodd;clip-rule:evenodd;fill:#BAB8C6;}
+</style>
+<g id="Garage_Conversion_Extension">
+	<path class="st1" d="M19.53,623.33L485.39,890.8V576.18L19.53,307.83V623.33z"/>
+	<path class="st2" d="M485.4,576.14l115.7-200.49l113.54,62.87l1.54,315.92L485.4,892.13V576.14z"/>
+	<path class="st3" d="M134.7,108.02L19.54,307.83l465.85,268.31l115.67-200.51L134.7,108.02z"/>
+	<g>
+		<polygon class="st4" points="630.69,833.73 857.59,698.57 857.59,834.38 630.69,970.21 		"/>
+		<path class="st5" d="M856.59,700.33v133.48l-224.9,134.64V834.3L856.59,700.33 M858.59,696.81l-228.9,136.34v138.82l228.9-137.03
+			V696.81L858.59,696.81z"/>
+	</g>
+	<g>
+		<polygon class="st4" points="487.39,747.92 715.68,615.71 856.61,696.82 629.86,831.98 		"/>
+		<path class="st5" d="M715.68,616.87l138.95,79.96L629.85,830.82l-140.48-82.89L715.68,616.87 M715.68,614.56L485.41,747.92
+			l144.45,85.23L858.59,696.8L715.68,614.56L715.68,614.56z"/>
+	</g>
+	<g>
+		<polygon class="st4" points="486.4,887.47 486.4,749.67 628.87,833.43 628.68,970.24 		"/>
+		<path class="st5" d="M487.4,751.42l140.47,82.58l-0.19,134.5L487.4,886.89V751.42 M485.4,747.93v140.12l144.28,83.93l0.2-139.11
+			L485.4,747.93L485.4,747.93z"/>
+	</g>
+	<path class="st6" d="M858.59,740.97l201.88,119.27L629.86,971.97l228.73-137.06V740.97z"/>
+</g>
+</svg>

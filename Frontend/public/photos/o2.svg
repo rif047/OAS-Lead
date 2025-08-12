@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1080 1080" style="enable-background:new 0 0 1080 1080;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#9F9DA8;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#EBE313;}
+	.st3{fill:#9F9DA8;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#BAB8C6;}
+	.st5{fill-rule:evenodd;clip-rule:evenodd;fill:#062744;}
+	.st6{opacity:0.65;fill-rule:evenodd;clip-rule:evenodd;fill:#BAB8C6;}
+</style>
+<g id="Garden_-_Annex_Extension">
+	<path class="st1" d="M22.44,673.34v70.06l361.61-212.45V460.9L22.44,673.34z"/>
+	<g>
+		<polygon class="st2" points="34.74,740.57 34.74,629.89 380.79,834.37 380.79,945.05 		"/>
+		<path class="st3" d="M35.74,631.64l344.05,203.3V943.3L35.74,740V631.64 M33.74,628.14v113l348.05,205.67v-113L33.74,628.14
+			L33.74,628.14z"/>
+	</g>
+	<g>
+		<polygon class="st2" points="35.69,628.12 178.4,541.16 524.5,745.68 381.79,832.64 		"/>
+		<path class="st3" d="M178.41,542.33l344.15,203.36l-140.77,85.78L37.63,628.11L178.41,542.33 M178.39,540L33.74,628.14
+			l348.05,205.67l144.65-88.14L178.39,540L178.39,540z"/>
+	</g>
+	<g>
+		<polygon class="st2" points="382.79,834.37 525.44,747.45 525.44,858.11 382.79,945.03 		"/>
+		<path class="st3" d="M524.44,749.23v108.32l-140.64,85.71V834.93L524.44,749.23 M526.44,745.67l-144.64,88.14v113l144.64-88.14
+			V745.67L526.44,745.67z"/>
+	</g>
+	<path class="st4" d="M384.06,282.35l361.61,214.71V743.4L384.06,530.96V282.35z"/>
+	<path class="st1" d="M745.67,497.05l90.4-160.46l88.14,54.24v246.35L745.67,743.4V497.05z"/>
+	<path class="st1" d="M384.06,885.78v70.06L745.67,743.4v-70.06L384.06,885.78z"/>
+	<path class="st1" d="M22.44,743.4l361.61,212.45v-70.06L22.44,673.34V743.4z"/>
+	<path class="st5" d="M474.46,124.15l-90.4,158.21l361.61,214.71l90.4-160.46L474.46,124.15z"/>
+	<path class="st6" d="M926.47,637.18L384.06,955.85l673.5-311.89l-131.08-76.84V637.18z"/>
+</g>
+</svg>

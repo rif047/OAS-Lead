@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1080 1080" style="enable-background:new 0 0 1080 1080;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#BAB8C6;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#9F9DA8;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#062744;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#EBE313;}
+	.st5{fill:#9F9DA8;}
+	.st6{opacity:0.65;fill-rule:evenodd;clip-rule:evenodd;fill:#BAB8C6;}
+</style>
+<g id="Wraparound_Extension">
+	<path class="st1" d="M126.33,295.58L533.79,528.4v270.76L126.33,566.34V295.58z"/>
+	<path class="st2" d="M533.8,529.97L635.2,352.87l100.82,58.79v275.6L533.8,805.18V529.97z"/>
+	<path class="st3" d="M228.35,117.66L126.33,293.39L534.4,527.77l102.02-175.41L228.35,117.66z"/>
+	<g>
+		<polygon class="st4" points="21.54,656.44 21.54,540.85 549.38,845.71 549.38,960.61 		"/>
+		<path class="st5" d="M22.54,542.58l525.84,303.71v112.59L22.54,655.87V542.58 M20.54,539.11v117.91l529.84,305.32v-117.2
+			L20.54,539.11L20.54,539.11z"/>
+	</g>
+	<g>
+		<polygon class="st4" points="551.38,844.95 854.99,664.25 854.99,779.5 551.38,960.58 		"/>
+		<path class="st5" d="M853.99,666.01v112.91L552.38,958.82v-113.3L853.99,666.01 M855.99,662.5L550.38,844.38v117.96l305.61-182.28
+			V662.5L855.99,662.5z"/>
+	</g>
+	<path class="st6" d="M855.98,705.01l203.47,116.89L550.37,962.34l305.61-182.3V705.01z"/>
+	<g>
+		<polygon class="st4" points="22.51,539.1 126,478.36 533.84,712.25 736.02,592.38 854.04,662.5 550.38,843.95 		"/>
+		<path class="st5" d="M126,479.51l406.84,233.32l1.01,0.58l1-0.59l201.16-119.27l116.07,68.96L550.37,842.79L24.5,539.09
+			L126,479.51 M125.99,477.2L20.54,539.09v0.02l529.84,306L856,662.5l-119.98-71.28L533.84,711.09L125.99,477.2L125.99,477.2z"/>
+	</g>
+</g>
+</svg>
