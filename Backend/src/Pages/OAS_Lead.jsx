@@ -146,7 +146,7 @@ export default function OAS_Leads() {
                             data={data}
                             onView={handleView}
                             onDelete={handleDelete}
-                            onMarkRead={handleMarkAsRead} // 🔹 নতুন props
+                            onMarkRead={handleMarkAsRead}
                             permissions={userPermissions}
                         />
                     )}
