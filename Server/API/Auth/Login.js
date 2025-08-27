@@ -17,8 +17,6 @@ Route.post("/", async (req, res) => {
         const token = jwt.sign({ userId: user._id }, process.env.JWT_SECRET, { expiresIn: '1d' });
 
         res.status(200)
-            .header('Access-Control-Allow-Origin', process.env.FRONTEND_URL)
-            .header('Access-Control-Allow-Credentials', 'true')
             .json({
                 token,
                 user: {

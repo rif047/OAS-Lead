@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import { Routes, Route, Navigate } from 'react-router-dom';
 import axios from 'axios';
 import Login from './Pages/Auth/Login';
-import Dashboard from './Pages/Dashboard/Dashboard';
+import Dashboard from './Pages/OAS_Lead';
 import Customers from './Pages/Customer/Customers';
 import Clients from './Pages/Client/Clients';
 import Properties from './Pages/Property/Properties';

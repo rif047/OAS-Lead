@@ -46,7 +46,7 @@ export default function Login() {
                     <div className="max-w-md mx-auto">
                         <img src="/Assets/Video/login.gif" alt="" className='w-[300px] mb-8 mx-auto' />
                         <div>
-                            <h1 className="text-2xl mb-2 font-semibold">Welcome Back!</h1>
+                            <h1 className="text-2xl mb-2 font-semibold">Welcome Back OAS!</h1>
                             <h5 className="text-sm mb-6">Please Enter Login Details Below</h5>
                         </div>
                         <div className="divide-y divide-gray-200">

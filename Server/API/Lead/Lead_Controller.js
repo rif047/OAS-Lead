@@ -62,18 +62,21 @@ let Update = async (req, res) => {
         let { workDone } = req.body;
 
         let updateData = await Lead.findById(req.params.id);
+        if (!updateData) return res.status(404).send('Lead not found');
 
-        updateData.workDone = workDone;
+        if (workDone !== undefined) {
+            updateData.workDone = workDone;
+        }
 
         await updateData.save();
         res.status(200).json(updateData);
         console.log('Updated Successfully');
-
     } catch (error) {
         console.error(error);
         res.status(500).send('Updating Error!!!');
     }
-}
+};
+
 
 
 
