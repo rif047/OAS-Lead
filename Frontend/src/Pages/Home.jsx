@@ -208,7 +208,7 @@ export default function AllExtensions() {
     };
 
     return (
-        <div className="min-h-screen bg-gradient-to-r from-[#eeebfb] to-[#EBE3C0] p-2 md:p-5 text-[#312753] font-semibold">
+        <div className="min-h-screen bg-gradient-to-r bg-[#D7ECFD] p-2 md:p-5 text-[#312753] font-semibold">
             <div className="max-w-[56rem] mx-auto bg-white p-4 md:p-12 rounded-2xl shadow-2xl">
                 <div className=''>
                     <a href='https://onlinearchitecturalservices.com' className='border px-5 py-2 bg-slate-200 shadow-md rounded-lg hover:shadow-xl'>
