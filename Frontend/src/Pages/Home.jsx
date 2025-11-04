@@ -211,10 +211,10 @@ export default function AllExtensions() {
         <div className="min-h-screen bg-gradient-to-r bg-[#D7ECFD] p-2 md:p-5 text-[#312753] font-semibold">
             <div className="max-w-[56rem] mx-auto bg-white p-4 md:p-12 rounded-2xl shadow-2xl">
                 <div className=''>
-                    <a href='https://onlinearchitecturalservices.com' className='border px-5 py-2 bg-slate-200 shadow-md rounded-lg hover:shadow-xl'>
+                    {/* <a href='https://onlinearchitecturalservices.com' className='border px-5 py-2 bg-slate-200 shadow-md rounded-lg hover:shadow-xl'>
                         <ArrowBackOutlinedIcon />
                         <span className='ml-1'>Home</span>
-                    </a>
+                    </a> */}
 
                     <h1 className="text-[2rem] font-bold text-[#3E3168] mb-16 text-center uppercase border-b-2 pb-3 mt-4">
                         Let's Plan For Your Project

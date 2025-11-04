@@ -85,6 +85,8 @@ export default function OAS_Leads() {
     };
 
     const columns = [
+        { key: "createdOn", accessorFn: (row) => row.createdOn ? new Date(row.createdOn).toLocaleDateString() : '', header: 'Date', maxSize: 80 },
+
         { accessorKey: 'fullName', header: 'Name' },
         { accessorKey: 'phone', header: 'Phone', enableClickToCopy: true },
         {
